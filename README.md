@@ -24,23 +24,6 @@ An end-to-end **ML & DL workflow automation platform** built with Streamlit that
 
 ---
 
-## 📂 Project Structure
-
-├── app.py # Main Streamlit app
-├── data/ # Sample datasets
-├── models/ # Saved model artifacts
-├── modules/
-│ ├── data_preprocessing.py
-│ ├── model_training.py
-│ ├── visualization.py
-│ └── database.py
-├── utils/
-│ └── helpers.py
-├── requirements.txt
-└── README.md
-
----
-
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
@@ -50,9 +33,6 @@ git clone https://github.com/your-username/automl-streamlit-app.git
 cd automl-streamlit-app
 ```
 2. Install Dependencies
-
-Copy
-Edit
 ```bash
 pip install -r requirements.txt
 ```
