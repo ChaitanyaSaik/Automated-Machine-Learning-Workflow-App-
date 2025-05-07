@@ -57,8 +57,9 @@ Edit
 pip install -r requirements.txt
 ```
 3. Launch the App
-   ```bash
+```bash
 streamlit run app.py
+
 ```
 
 🛠️ ML/DL Models Used
