@@ -48,16 +48,19 @@ An end-to-end **ML & DL workflow automation platform** built with Streamlit that
 ```bash
 git clone https://github.com/your-username/automl-streamlit-app.git
 cd automl-streamlit-app
+```
 2. Install Dependencies
-'''bash
+
 Copy
 Edit
+```bash
 pip install -r requirements.txt
+```
 3. Launch the App
-bash
-Copy
-Edit
+   ```bash
 streamlit run app.py
+```
+
 🛠️ ML/DL Models Used
 Task	Algorithms Used
 Classification	Logistic Regression, Random Forest, SVM, KNN, Deep Neural Network (Keras)
